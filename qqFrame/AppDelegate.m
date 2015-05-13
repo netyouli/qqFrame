@@ -7,7 +7,9 @@
 //
 
 #import "AppDelegate.h"
-
+#import "WHC_LeftVC.h"
+#import "WHC_RightVC.h"
+#import "WHC_SideNavigationControler.h"
 @interface AppDelegate ()
 
 @end
@@ -16,7 +18,15 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    self.window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
     // Override point for customization after application launch.
+    WHC_SideNavigationControler * nv = [WHC_SideNavigationControler sharedInstance];
+    nv.menuMoveStyle = WHC_Menu_Move_Style_MAIN_VIEW_SCALE_SCALE_FADE;
+    //    nv.touchBorder = YES;  //表示非要从边缘拉才可以拉开
+    nv.leftMenuVC = [WHC_LeftVC new];
+    nv.rightMenuVC = [WHC_RightVC new];
+    self.window.rootViewController = nv;
+    [self.window  makeKeyAndVisible];
     return YES;
 }
 
