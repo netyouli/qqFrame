@@ -6,6 +6,12 @@
 //  Copyright (c) 2015年 吴海超. All rights reserved.
 //
 
+/*
+ *  qq:712641411
+ *  gitHub:https://github.com/netyouli
+ *  csdn:http://blog.csdn.net/windwhc/article/category/3117381
+ */
+
 #import <UIKit/UIKit.h>
 #define KWHC_Side_Left_Menu_N_Margin (150.0)             //显示左菜单时主视图显示的宽度
 #define KWHC_Side_Right_Menu_N_Margin (100.0)            //显示右菜单时主视图显示的宽度

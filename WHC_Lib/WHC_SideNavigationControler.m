@@ -6,6 +6,12 @@
 //  Copyright (c) 2015年 吴海超. All rights reserved.
 //
 
+/*
+ *  qq:712641411
+ *  gitHub:https://github.com/netyouli
+ *  csdn:http://blog.csdn.net/windwhc/article/category/3117381
+ */
+
 #import "WHC_SideNavigationControler.h"
 #define KWHC_OVER_VIEW_TAG (399320)
 typedef enum:NSInteger{

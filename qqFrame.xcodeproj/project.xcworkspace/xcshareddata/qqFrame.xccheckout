@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A9F078E3-F955-410D-93C2-48D4B8E09A04</string>
+	<key>IDESourceControlProjectName</key>
+	<string>qqFrame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E5BBFD1CD13036A286F69BC4A0FBE92AB3BC3FE5</key>
+		<string>https://github.com/netyouli/qqFrame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>qqFrame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E5BBFD1CD13036A286F69BC4A0FBE92AB3BC3FE5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/netyouli/qqFrame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5BBFD1CD13036A286F69BC4A0FBE92AB3BC3FE5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5BBFD1CD13036A286F69BC4A0FBE92AB3BC3FE5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>qqFrame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
